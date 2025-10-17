@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src="https://raw.githubusercontent.com/StephaniaLozano/stephanialozano/main/banner.jpg"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stephanialozano/" target="_blank">
@@ -24,7 +24,7 @@
 
 <h3 align="center">💻 QA Tester | QA Manual | QA Automatización | QA Documentación</h3>
 
-###
+
 
 <p align="left">
 Soy una profesional en Tecnología en Informática apasionada por la <b>excelencia y el comportamiento humano,</b> lo que me ha permitido desarrollar una fuerte capacidad de <b> analítica, observadora y meticulosa.</b>
